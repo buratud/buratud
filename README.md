@@ -1,16 +1,22 @@
-### Hi there 👋
+# Introduction
+## About Me
 
-<!--
-**buratud/buratud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 My name is YAY and I am passionate about programming.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vocational Certificate, Electrical, KMUTNB, 2021
+
+## Programming Languages
+<div>
+    <img src="./logos/c.png" alt="Python" height="50">
+    <img src="./logos/cpp.png" alt="C++" height="50">
+    <img src="./logos/csharp.png" alt="C#" height="50">
+    <img src="./logos/python.png" alt="Python" height="50">
+    <img src="./logos/java.png" alt="Kotlin" height="50">
+    <img src="./logos/kotlin.png" alt="height" height="50">
+    <img src="./logos/javascript.png" alt="Javscript" height="50">
+    <img src="./logos/nodejs.png" alt="NodeJS" height="50">
+    <img src="./logos/go.png" alt="Golang" height="50">
+    <img src="./logos/react.png" alt="Golang" height="50">
+</div>
