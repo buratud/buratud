@@ -1,7 +1,7 @@
 # Introduction
 ## About Me
 
-Hi there! 👋 My name is YAY and I am passionate about programming.
+Hi there! 👋 My name is Buratud and I am passionate about programming.
 
 ## Education
 
