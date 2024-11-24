@@ -23,7 +23,7 @@ export default function Navbar() {
     return (
         <nav className={styles.navbar}>
             <ul className={styles.menulist}>
-                {menuLinks.map((menuLink, index) => {
+                {menuLinks.map((menuLink) => {
                     return (
                         <Link key={menuLink.href} href={menuLink.href}>
                             <li className={clsx(pathname === menuLink.href && styles.active)}>{menuLink.name}</li>
