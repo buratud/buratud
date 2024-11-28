@@ -1,11 +1,7 @@
 # Introduction
 ## About Me
 
-Hi there! 👋 My name is Buratud.
-
-## Education
-
-- Vocational Certificate, Electrical, KMUTNB, 2021
+Hi, My name is Buratud.
 
 ## Programming Languages
 <div>
